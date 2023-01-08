@@ -1,4 +1,4 @@
-## OLÁ! Eu sou o Carlos Henrique dos Santos Lima
+## OLÁ! Eu sou o Carlos Henrique dos Santos Lima, desenvolvedor Android e amante de tecnologia
 
 - 🔭 Hpje trabalho com mobile nativo Android
 - 🌱 Estudando para ser especialista Android/Kotlin
@@ -25,7 +25,5 @@
   <a href="https://www.instagram.com/carlos_lima.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:chsl200293@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/carlos-henrique-1b008068/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake gif](https://github.com/pontoevirgula/pontoevirgula/blob/output/github-contribution-grid-snake.svg)
- 
+  
 </div>
